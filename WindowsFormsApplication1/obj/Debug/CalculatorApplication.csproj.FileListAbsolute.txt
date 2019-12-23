@@ -1,0 +1,17 @@
+D:\wyb\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\wyb\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\wyb\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\wyb\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\wyb\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\wyb\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\CalculatorApplication.csproj.GenerateResource.Cache
+D:\wyb\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\wyb\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\wyb\CalculatorApplication\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\wyb\CalculatorApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\wyb\CalculatorApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\wyb\CalculatorApplication\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\wyb\CalculatorApplication\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\wyb\CalculatorApplication\WindowsFormsApplication1\obj\Debug\CalculatorApplication.csprojResolveAssemblyReference.cache
+D:\wyb\CalculatorApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.CalculatorForm.resources
+D:\wyb\CalculatorApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\wyb\CalculatorApplication\WindowsFormsApplication1\obj\Debug\CalculatorApplication.csproj.GenerateResource.Cache
