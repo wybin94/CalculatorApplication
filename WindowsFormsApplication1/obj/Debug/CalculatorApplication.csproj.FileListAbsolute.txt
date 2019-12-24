@@ -15,3 +15,6 @@ D:\wyb\CalculatorApplication\WindowsFormsApplication1\obj\Debug\CalculatorApplic
 D:\wyb\CalculatorApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.CalculatorForm.resources
 D:\wyb\CalculatorApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
 D:\wyb\CalculatorApplication\WindowsFormsApplication1\obj\Debug\CalculatorApplication.csproj.GenerateResource.Cache
+D:\wyb\GitRepos\CalculatorApplication\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\wyb\GitRepos\CalculatorApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\wyb\GitRepos\CalculatorApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
